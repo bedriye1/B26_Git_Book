@@ -1,0 +1,3 @@
+Stack Memory in Java is used for static memory allocation and the execution of a thread.
+It contains primitive values that are specific to a method and references to objects referred from the method that are in a heap.
+Access to this memory is in Last-In-First-Out (LIFO) order
