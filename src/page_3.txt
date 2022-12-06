@@ -1,0 +1,3 @@
+If your changes are already staged, then there's no difference to show. 
+But there's a command line option that will show you staged changes if you specify it: git diff staged .
+With the --staged option, git diff will compare your staged changes against th previous commit.
