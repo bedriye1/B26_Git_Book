@@ -1,0 +1,4 @@
+Are staged changes saved to git?
+Once you are happy with the staged snapshot that is provided you commit it to the project history with git commit.
+Remember, git commit is saving changes in Git.
+You can also use the git reset command to undo a commit or staged snapshot when/if needed.
